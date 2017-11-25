@@ -1,0 +1,1 @@
+This example shows how to write byte content in a file.
